@@ -1,0 +1,19 @@
+Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial
+https://www.youtube.com/watch?v=vjf774RKrLc		
+Node+Express+MongoDB=>API
+		
+
+npm init
+=>generate package.json
+
+npm install express
+
+npm install nodemon
+
+npm install mongoose        // connect to mongodb
+
+npm install dotenv          // to use .env 
+
+npm install body-parser    // to parse request body
+
+npm install cors            // allows cross-domain access
